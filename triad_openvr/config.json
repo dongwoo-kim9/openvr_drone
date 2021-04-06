@@ -1,0 +1,29 @@
+{
+    "devices":[
+        {
+          "name": "hmd",
+          "type": "HMD",
+          "serial":"FA94BJJ00302"
+        },
+        {
+          "name": "tracking_reference_1",
+          "type": "Tracking Reference",
+          "serial":"FB908222EA"
+        },
+        {
+          "name": "tracking_reference_2",
+          "type": "Tracking Reference",
+          "serial":"FB908211D6"
+        },
+        {
+          "name": "controller_L",
+          "type": "Controller",
+          "serial":"FA94JJ002262"
+        },
+        {
+          "name": "controller_R",
+          "type": "Controller",
+          "serial":"FA94JJ002262"
+        }
+    ]
+}
